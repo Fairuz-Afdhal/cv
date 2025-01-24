@@ -29,7 +29,7 @@ const Home = () => {
       <div className="my-4 flex space-x-2 justify-center print:hidden">
         <a href="javascript:window.print()">Print</a>
         <span>|</span>
-        <a href="fairuz-afdhal-cv.pdf">Download pre-made PDF</a>
+        <a href="cv-fairuz-afdhal.pdf">Download pre-made PDF</a>
       </div>
       <hr className="my-4 border-t border-black print:my-1" />
 
@@ -107,7 +107,7 @@ const Home = () => {
             >
               © Fairuz Afdhal
             </a>
-             | {currentYear} | 
+            &nbsp; | {currentYear} | &nbsp; 
             <a
               className="text-blue-600 no-underline"
               href="https://github.com/Fairuz-Afdhal/cv"
