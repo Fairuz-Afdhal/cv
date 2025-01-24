@@ -1,21 +1,26 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap");
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+@media print {
+    .print-hidden {
+        display: none;
+    }
+    .print-text-sm {
+        font-size: 0.875rem; /* 14px */
+    }
+    .print-my-2 {
+        margin-top: 0.5rem; /* 8px */
+        margin-bottom: 0.5rem; /* 8px */
+    }
+    ul {
+        margin-top: 0.25rem; /* Reduce top margin */
+        margin-bottom: 0.25rem; /* Reduce bottom margin */
+    }
+    li {
+        padding-top: 0.125rem; /* Reduce top padding */
+        padding-bottom: 0.125rem; /* Reduce bottom padding */
+    }
+    body {
+        line-height: 1 !important; /* Single spacing */
+      }
+}   

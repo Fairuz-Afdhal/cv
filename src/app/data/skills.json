@@ -1,0 +1,45 @@
+[
+  {
+    "category": "Spoken Languages",
+    "items": [
+      { "name": "Indonesian (native)", "icon": "FaLanguage" },
+      { "name": "English", "icon": "FaLanguage" }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "items": [
+      { "name": "Python", "icon": "FaPython"},
+      { "name": "JavaScript/TypeScript", "icon": "FaJs" },
+      { "name": "HTML", "icon": "FaHtml5" },
+      { "name": "CSS (Tailwind)", "icon": "SiTailwindcss" },
+      { "name": "C/C++", "icon": "SiCplusplus" }
+    ]
+  },
+  {
+    "category": "Frameworks and Development Tools",
+    "items": [
+      { "name": "React", "icon": "FaReact" },
+      { "name": "Git", "icon": "FaGitAlt" },
+      { "name": "GitHub", "icon": "FaGithub" },
+      { "name": "Express.js", "icon": "SiExpress" },
+      { "name": "Node.js", "icon": "FaNodeJs" },
+      { "name": "Next.js", "icon": "RiNextjsFill" }
+    ]
+  },
+  {
+    "category": "Operating Systems",
+    "items": [
+      { "name": "Windows", "icon": "FaWindows" },
+      { "name": "Ubuntu", "icon": "FaUbuntu" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      { "name": "MySQL", "icon": "SiMysql" },
+      { "name": "PostgreSQL", "icon": "SiPostgresql" },
+      { "name": "SQLite", "icon": "SiSqlite" }
+    ]
+  }
+]

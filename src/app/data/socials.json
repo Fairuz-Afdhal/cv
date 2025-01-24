@@ -1,0 +1,14 @@
+[
+  {
+    "label": "fairuzzafdhal@gmail.com",
+    "isEmail": true,
+    "value": "fairuzzafdhal@gmail.com",
+    "icon": "FaAt"
+  },
+  {
+    "label": "@Fairuz-Afdhal",
+    "isEmail": false,
+    "value": "https://github.com/Fairuz-Afdhal/",
+    "icon": "SiGithub"
+  }
+]
