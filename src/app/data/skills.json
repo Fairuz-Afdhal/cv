@@ -9,8 +9,9 @@
   {
     "category": "Programming Languages",
     "items": [
-      { "name": "Python", "icon": "FaPython"},
+      { "name": "Java", "icon": "FaJava" },
       { "name": "JavaScript/TypeScript", "icon": "FaJs" },
+      { "name": "Python", "icon": "FaPython"},
       { "name": "HTML", "icon": "FaHtml5" },
       { "name": "CSS (Tailwind)", "icon": "SiTailwindcss" },
       { "name": "C/C++", "icon": "SiCplusplus" }
