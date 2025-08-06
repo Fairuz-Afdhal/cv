@@ -1,1 +1,1 @@
-My personal CV website built with **Next.js** and **TypeScript**.
+My personal CV website built with just HTML
